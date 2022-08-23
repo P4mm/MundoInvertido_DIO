@@ -1,4 +1,4 @@
-## ▶️ Semana Front-end
+## ▶️ Semana Front-end DIO
 
 <p align="center">
     <img width="300" src="./assets/images/banner/logo.svg">
